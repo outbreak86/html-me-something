@@ -1,0 +1,40 @@
+body {
+    background-color: #333333;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+img{
+
+}
+zd img{
+display: block;;
+margin: auto;
+}
+
+div {
+    display: block;
+    margin: auto;
+}
+
+footer{
+	color: white;
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+ a {
+    color: hotpink;
+}
